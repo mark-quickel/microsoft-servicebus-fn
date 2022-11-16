@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "Microsoft.EE.ServiceBusFn.Fn": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7287",
+      "launchBrowser": false
+    }
+  }
+}
